@@ -11,7 +11,7 @@
 ### 🎯 About Me
 
 ```typescript
-const nileXrana = {
+const rohit-2k5 = {
     location: "Earth 🌍",
     code: ["JavaScript", "TypeScript", "Python", "Java"],
     technologies: {
